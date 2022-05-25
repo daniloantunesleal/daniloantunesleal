@@ -13,7 +13,7 @@
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
-### <p align="center">💻 Programador Front-End Web Developer</p>
+### <p align="center">💻 Programador</p>
 <div align="center">
   <a href="daniloantunesleal.weebly.com" target="_blank"><img src="https://img.shields.io/badge/Meu-Portf%C3%B3lio-blueviolet?style=for-the-badge" target="_blank"></a>
 </div>
