@@ -1,4 +1,4 @@
- ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hello world! Meu nome é 
+ ### Hello world! Meu nome é 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Danilo+Antunes+Leal)](https://github.com/MatheusdeSouzaSilva70)
 
 <h3>  | &nbsp;Um pouco sobre mim: </h3>
