@@ -4,7 +4,7 @@
 <h3>  | &nbsp;Um pouco sobre mim: </h3>
 
 - 😃 Nome: Danilo Antunes Leal.
-- ☕ Habilidades: HTML, CSS, Lua/fiveM, Javascript.
+- ☕ Habilidades: HTML, CSS, Lua/fiveM, Javascript, blueprints.
 - 💼 Ferramentas: VS Code, Git, Github.
 - 📫 Contate-me no gmail: contatodaniloantunesleal@gmail.com
 - 😄 Pronomes: Ele/dele
