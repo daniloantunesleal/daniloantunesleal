@@ -44,7 +44,7 @@
 	
 </br>⚙️🔧 | **GitHub Estatísticas**
 <div>
-  <a href="https://github.com/lellismaria">
+  <a href="https://github.com/daniloantunesleal">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daniloantunesleal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloantunesleal&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
