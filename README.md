@@ -29,7 +29,9 @@
 
   <img align="center" alt="Danilo-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 	
-  <img align="center" alt="Danilo-JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />	
+  <img align="center" alt="Danilo-JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
+	
+  <img align="center" alt="Danilo-JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
 	
 </br>⚙️🔧 | **GitHub Estatísticas**
