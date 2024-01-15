@@ -11,16 +11,6 @@
 </br>
 
 
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
-
-### <p align="center">💻 Programador</p>
-<div align="center">
-  <a href="https://daniloantunesleal.com" target="_blank"><img src="https://img.shields.io/badge/Meu-Portf%C3%B3lio-blueviolet?style=for-the-badge" target="_blank"></a>
-</div>
-
- <div style="display: inline_block" align="center">
-	
-	
 ### <p align="center">Skills</p>
 	
   <img align="center" alt="Danilo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -41,7 +31,17 @@
 	
  <img align="center" alt="Danilo-Next" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
 
+
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+
+### <p align="center">💻 Programador</p>
+<div align="center">
+  <a href="https://daniloantunesleal.com" target="_blank"><img src="https://img.shields.io/badge/Meu-Portf%C3%B3lio-blueviolet?style=for-the-badge" target="_blank"></a>
+</div>
+
+ <div style="display: inline_block" align="center">
 	
+
 </br>⚙️🔧 | **GitHub Estatísticas**
 <div>
   <a href="https://github.com/daniloantunesleal">
