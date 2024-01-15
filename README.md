@@ -13,7 +13,9 @@
 
 ### <p align="center">Skills</p>
 	
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+</p>
 
 
 
