@@ -13,7 +13,8 @@
 
 ### <p align="center">Skills</p>
 	
- https://skillicons.dev/icons?i=js,html,css,wasm
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
