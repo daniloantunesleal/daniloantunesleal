@@ -13,7 +13,7 @@
 ### <p align="center">Skills</p>
 	
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <img src="https://skillicons.dev/icons?i=git,express,lua,nodejs,svelte,react,html,css" />
 </p>
 
 
