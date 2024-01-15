@@ -10,7 +10,6 @@
 - 😄 Pronomes: Ele/dele
 </br>
 
-
 ### <p align="center">Skills</p>
 	
 <p align="center">
