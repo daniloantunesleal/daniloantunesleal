@@ -9,6 +9,7 @@
 - 📫 Contate-me no gmail: daniloantumesleal@gmail.com
 - 😄 Pronomes: Ele/dele
 </br>
+
 ### <p align="center">Skills</p>
 	
 <p align="center">
