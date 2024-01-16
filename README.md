@@ -24,14 +24,6 @@
 
  <div style="display: inline_block" align="center">
 	
-
-</br>⚙️🔧 | **GitHub Estatísticas**
-<div>
-  <a href="https://github.com/daniloantunesleal">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daniloantunesleal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloantunesleal&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-	
   ### <p align="center">Contato</p>
   
    <a href = "mailto:contatodaniloantunesleal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
