@@ -4,9 +4,7 @@
 <h3>  | &nbsp;Um pouco sobre mim: </h3>
 
 - 😃 Nome: Danilo Antunes Leal.
-- 💼 Ferramentas: VS Code, Git, Github.
-- 📫 Contate-me no gmail: daniloantumesleal@gmail.com
-
+- 📫 Contate-me no email: contato@daniloleal.com
 ### <p align="center">Skills</p>
 	
 <p align="center">
